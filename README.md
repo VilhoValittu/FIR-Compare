@@ -17,7 +17,7 @@ Download the package for your operating system and processor from [Releases](htt
 | Linux ARM64 | `FIR-Compare-linux-arm64` |
 | macOS Apple Silicon | `FIR-Compare-macos-arm64` |
 
-Extract the entire `.7z` archive before launching. Each package includes the executable and license documents. No separate Python or Rust installation is required. You need a web browser and an archive extractor that supports `.7z`.
+Extract the entire `.7z` archive before launching. Each package includes the executable and license documents. You need a web browser and an archive extractor that supports `.7z`.
 
 ## Start the app
 
