@@ -16,6 +16,7 @@ Download the package for your operating system and processor from [Releases](htt
 | Linux x64 | `FIR-Compare-linux-x86_64` |
 | Linux ARM64 | `FIR-Compare-linux-arm64` |
 | macOS Apple Silicon | `FIR-Compare-macos-arm64` |
+| macOS Intel Silicon | 'FIR-Compare-macos-x86-64' |
 
 Extract the entire `.7z` archive before launching. Each package includes the executable and license documents. You need a web browser and an archive extractor that supports `.7z`.
 
